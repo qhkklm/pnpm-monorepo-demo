@@ -1,6 +1,6 @@
 {
-  "name": "@qftjs/demo",
-  "version": "3.1.2",
+  "name": "@hxyou1/demo",
+  "version": "4.0.0",
   "description": "",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -17,6 +17,6 @@
   "author": "qi.futao",
   "license": "ISC",
   "dependencies": {
-    "@qftjs/monorepo1": "workspace:*"
+    "@hxyou1/monorepo1": "workspace:*"
   }
 }

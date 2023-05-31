@@ -1,5 +1,16 @@
 # @qftjs/monorepo1
 
+## 4.0.0
+
+### Major Changes
+
+- 9999
+
+### Patch Changes
+
+- Updated dependencies
+  - @hxyou1/monorepo1@4.0.0
+
 ## 3.1.2
 
 ### Patch Changes

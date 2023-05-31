@@ -1,6 +1,6 @@
 {
-  "name": "@qftjs/monorepo1",
-  "version": "3.1.2",
+  "name": "@hxyou1/monorepo1",
+  "version": "4.0.0",
   "description": "",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -18,7 +18,7 @@
   "author": "qi.futao",
   "license": "ISC",
   "dependencies": {
-    "@qftjs/monorepo2": "workspace:*",
+    "@hxyou1/monorepo2": "workspace:*",
     "axios": "^0.27.2"
   }
 }

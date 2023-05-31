@@ -1,4 +1,4 @@
-import pkg2 from '@qftjs/monorepo2';
+import pkg2 from '@hxyou1/monorepo2';
 
 function fun1() {
   pkg2();

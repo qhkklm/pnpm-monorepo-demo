@@ -1,8 +1,8 @@
-import pkg1 from '@qftjs/monorepo1';
+import pkg1 from '@hxyou1/monorepo1';
 
 function fun2() {
   pkg1();
-  console.log('我是playground');
+  console.log('我是playground哈哈9991111111111111111');
 }
 
 fun2();
